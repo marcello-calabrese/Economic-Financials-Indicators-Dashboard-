@@ -1,8 +1,8 @@
 # Economic-Financials-Indicators-Dashboard-
-## Streamlit dashboard with key economic and financial indicators 
+## Streamlit dashboard webapp with key economic and financial indicators 
 ### [Link to the Dashboard](https://marcello-calabrese-economic-financials-indicato-eco-dash-o0aa1c.streamlitapp.com/)
 
-** The webapp shows the following macro data:
+**The webapp shows the following macro data:
 
 - US GDP
 - US Retail Sales
@@ -16,7 +16,7 @@
 
 ## Screenshot:
 
-![image](https://user-images.githubusercontent.com/74682725/190116356-71ba2486-ec3a-4202-9f92-0dde88b8dd01.png)
+![image](https://user-images.githubusercontent.com/74682725/190117305-8465b207-f9eb-4f32-822a-866d7499216c.png)
 
 
 
